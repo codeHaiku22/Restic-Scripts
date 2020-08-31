@@ -1,0 +1,20 @@
+/mnt/c/Users/dgrewal/OneDrive 
+/mnt/c/Users/dgrewal/AppData
+/mnt/c/Users/dgrewal/.dotnet
+/mnt/c/Users/dgrewal/.eclipse
+/mnt/c/Users/dgrewal/.VirtualBox
+/mnt/c/Users/dgrewal/NTUSER.DAT
+/mnt/c/Users/dgrewal/Application\ Data
+/mnt/c/Users/dgrewal/Cookies
+/mnt/c/Users/dgrewal/Documents/My\ Music
+/mnt/c/Users/dgrewal/Documents/My\ Pictures
+/mnt/c/Users/dgrewal/Documents/My\ Videos
+/mnt/c/Users/dgrewal/Local\ Settings
+/mnt/c/Users/dgrewal/My\ Documents
+/mnt/c/Users/dgrewal/NetHood
+/mnt/c/Users/dgrewal/PrintHood
+/mnt/c/Users/dgrewal/Recent
+/mnt/c/Users/dgrewal/SendTo
+/mnt/c/Users/dgrewal/Start\ Menu
+/mnt/c/Users/dgrewal/Templates
+/mnt/c/Users/dgrewal/ntuser*

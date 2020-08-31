@@ -1,6 +1,6 @@
 #!/bin/bash
-export RESTIC_PASSWORD=$(cat ~/bin/.restic_pwd)
-export RESTIC_REPOSITORY="/mnt/v/Backups/WS7928/restic_backup/"
+export RESTIC_PASSWORD=$(cat /home/dgrewal/bin/restic/.restic_pwd)
+export RESTIC_REPOSITORY="/mnt/d/backups/restic_backup/"
 restic snapshots
 du -sh $RESTIC_REPOSITORY
 echo "Please indicate the ID for the snapshot which is to be removed."
